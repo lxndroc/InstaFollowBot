@@ -67,14 +67,14 @@
 * [Download](https://google.com/chrome/) the installer.
 * Run & follow the steps of the installer.
 * This is the web browser Chrome.
-### 6. `InstaBotFollow`
-* [Download](https://github.com/lxndroc/InstaBotFollow/InstaBotFollow.py) the Python source.
+### 6. `InstaFollowBot`
+* [Download](https://github.com/lxndroc/InstaFollowBot/blob/master/InstaFollowBot.py) the Python source.
 * Set the value of `self._driver_path` on line 82 to the path of the chromedriver executable on your operating system (OS), e.g. `self._driver_path = 'D:/utils/net/chromedriver.exe'` or `self._driver_path = '/users/username/utils/net/chromedriver'`. 
 * This is the source code of the bot.
 
 ## Execution
-* Run `InstaBotFollow` with `python InstaBotFollow.py` from the terminal.
-* Just `InstaBotFollow.py` or double clicking may also work.
+* Run `InstaFollowBotw` with `python InstaFollowBot.py` from the terminal.
+* Just `InstaFollowBot.py` or double clicking may also work.
 
 ### Login To Instagram
   * Happens as soon as the program runs.
