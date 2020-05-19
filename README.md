@@ -1,8 +1,7 @@
 <h1 align="center">+ InstaFollowBot +</h1>
 <p align="center">
-  <h3 align='center'>Find & copy to clipboard all Instagram<br>
-a) Followers & Following,<br>b) Non-Followers & Non-Following,<br>c) New Followers & Unfollowers
-</h3>
+  <h3 align='center'>Find & copy to clipboard all Instagram Followers - Following - Non-Followers - Non-Following - New Followers - Unfollowers
+  </h3>
 </p>
   <p align="center">⭐️ & 🔱</p>
   <p align="center">
@@ -48,11 +47,11 @@ a) Followers & Following,<br>b) Non-Followers & Non-Following,<br>c) New Followe
 
 ## Installation
 ### 1. `Python 3.6` & above
-* Download the installer from [site](https://python.org/downloads/).
+* [Download](https://python.org/downloads/) the installer.
 * Run & follow the steps of the installer.
 * This is the used programming language.
 ### 2. `Selenium WebDriver for Chrome`
-* Download the compressed `chromedriver` installer from [site](http://chromedriver.chromium.org/downloads) corresponding to your Chrome version & OS version.
+* [Download](http://chromedriver.chromium.org/downloads) the compressed `chromedriver` installer corresponding to your Chrome version & OS version.
 * The used Chrome version is on the 1st output line when requesting `chrome://version` in Chrome's search bar.
 * The filename to download is `chromedriver_win32.zip` for Windows & `chromedriver_mac64.zip` for Mac.
 * Unzip the compressed installer.
@@ -65,11 +64,11 @@ a) Followers & Following,<br>b) Non-Followers & Non-Following,<br>c) New Followe
 * Install with `pip install pyperclip` from the terminal.
 * This is the connection to the clipboard of the OS.
 ### 5. `Google Chrome`
-* Download from [site](https://google.com/chrome/).
+* [Download](https://google.com/chrome/) the installer.
 * Run & follow the steps of the installer.
 * This is the web browser Chrome.
 ### 6. `InstaBotFollow`
-* Download the Python source from [link](https://github.com/lxndroc/InstaBotFollow/InstaBotFollow.py).
+* [Download](https://github.com/lxndroc/InstaBotFollow/InstaBotFollow.py) the Python source.
 * Set the value of `self._driver_path` on line 82 to the path of the chromedriver executable on your operating system (OS), e.g. `self._driver_path = 'D:/utils/net/chromedriver.exe'` or `self._driver_path = '/users/username/utils/net/chromedriver'`. 
 * This is the source code of the bot.
 
