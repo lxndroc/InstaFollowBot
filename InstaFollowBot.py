@@ -1,7 +1,7 @@
 """
 ---------------------------------------------------
-                    InstaFollowBot v1.0
-                   by @lxndroc-@aoctut, 2020
+                    InstaFollowBot 2020
+                    by @lxndroc-@aoctut
 ---------------------------------------------------
 Finds & copies to clipboard all Instagram
 a) followers,
@@ -79,7 +79,7 @@ from time import sleep
 class Model:
     def __init__(self):
         # change this to your chromedriver path and filename
-        self._driver_path = 'chromedriver.exe'
+        self._driver_path = 'chromedriver'
         self._driver = webdriver.Chrome(self._driver_path)
         self._insta_url = 'https://www.instagram.com/'
         self._followers_filename = ''
