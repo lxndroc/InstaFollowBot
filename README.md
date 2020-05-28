@@ -8,7 +8,7 @@
     <a href="https://github.com/lxndroc">
       <img src="https://img.shields.io/badge/Coded%20By-@lxndroc--@aoctut-yellow" />
     </a>
-    <img src="https://img.shields.io/badge/Version-1.0-yellow" />
+    <img src="https://img.shields.io/badge/Version-2020-yellow" />
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
       <img src="https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-yellow" />
     </a>
