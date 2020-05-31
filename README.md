@@ -33,6 +33,7 @@
 * Method
 * Installation
 * Execution
+* Licence
 * Help
 * Contribution
 
